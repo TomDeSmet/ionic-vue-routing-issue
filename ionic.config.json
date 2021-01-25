@@ -1,0 +1,8 @@
+{
+  "name": "Vue Routing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9ff0fb60"
+}
